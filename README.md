@@ -3,9 +3,9 @@ SPEECH SENTIMENT ANALYZER
 This project involves analyzing the sentiment of spoken text in real-time using Python, NLTK, and SpeechRecognition libraries. It employs the VADER lexicon from NLTK to assess sentiment intensity and categorize it as positive, negative, or neutral.
 
 REQUIREMENTS:
-Python
-nltk
-speech_recognition
+Python,
+nltk.
+speech_recognition.
 
 RUNNING THE CODE:
 Ensure Python and the specified libraries are installed with the appropriate versions.
